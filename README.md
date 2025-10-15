@@ -1,5 +1,11 @@
 # CIS 5660 HW04 Procedural Buildings
 
+## Lab Submission
+Chosen Reference/Style: Ilios Overwatch Map, which is originally inspired by the Greek Island of Santorini
+<img width="600" height="auto" alt="image" src="https://github.com/user-attachments/assets/5c2890a6-1c54-423a-9a8a-f22ab35680e3" />
+<img width="600" height="auto" alt="image" src="https://github.com/user-attachments/assets/e22378c7-7f20-4ba5-969d-1599a36213bb" />
+<img width="600" height="auto" alt="image" src="https://github.com/user-attachments/assets/a0868425-e190-4473-8a2c-7ed86af5b262" />
+
 ## Project Overview
 In this homework you’ll gain more experience with tool creation and loops. The core of this homework will be following a Procedural House tutorial to create a multi-floor building generator. The tutorial is linked here: 
 https://www.youtube.com/watch?v=uIe97023sDk&t=979s&ab_channel=SimonHoudini 

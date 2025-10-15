@@ -9,6 +9,11 @@ Credit: Replay_Guy on Reddit [Source](https://www.reddit.com/r/Overwatch/comment
 <img width="600" height="auto" alt="image" src="https://github.com/user-attachments/assets/a0868425-e190-4473-8a2c-7ed86af5b262" />
 Credit: Thiago Klafke on ArtStation [Source](https://thiagoklafke.artstation.com/projects/25bng)
 
+HDA Progress:
+<br>
+<img width="600" height="auto" alt="image" src="https://github.com/user-attachments/assets/ebf02ec9-add7-470d-b69b-3767476a1ccf" />
+
+
 ## Project Overview
 In this homework you’ll gain more experience with tool creation and loops. The core of this homework will be following a Procedural House tutorial to create a multi-floor building generator. The tutorial is linked here: 
 https://www.youtube.com/watch?v=uIe97023sDk&t=979s&ab_channel=SimonHoudini 

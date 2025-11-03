@@ -3,10 +3,15 @@
 ## Lab Submission
 Chosen Reference/Style: Ilios Overwatch Map, which is originally inspired by the Greek Island of Santorini
 <img width="600" height="auto" alt="image" src="https://github.com/user-attachments/assets/5c2890a6-1c54-423a-9a8a-f22ab35680e3" />
+<br>
 Credit: GameRant [Source](https://gamerant.com/overwatch-ilios-map-lighthouse-off-center/)
+<br>
 <img width="600" height="auto" alt="image" src="https://github.com/user-attachments/assets/e22378c7-7f20-4ba5-969d-1599a36213bb" />
+<br>
 Credit: Replay_Guy on Reddit [Source](https://www.reddit.com/r/Overwatch/comments/xvo2s7/do_you_see_what_i_see_on_the_ow2_ilios_loading/)
+<br>
 <img width="600" height="auto" alt="image" src="https://github.com/user-attachments/assets/a0868425-e190-4473-8a2c-7ed86af5b262" />
+<br>
 Credit: Thiago Klafke on ArtStation [Source](https://thiagoklafke.artstation.com/projects/25bng)
 
 HDA Progress:

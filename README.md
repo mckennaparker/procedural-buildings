@@ -1,5 +1,8 @@
 # CIS 5660 HW04 Procedural Buildings
 
+## Submission
+<img width="622" height="601" alt="proceduralBuilding" src="https://github.com/user-attachments/assets/8e7c940a-a4ed-4de9-bcd2-f98ad47f88f5" />
+
 ## Lab Submission
 Chosen Reference/Style: Ilios Overwatch Map, which is originally inspired by the Greek Island of Santorini
 <img width="600" height="auto" alt="image" src="https://github.com/user-attachments/assets/5c2890a6-1c54-423a-9a8a-f22ab35680e3" />
